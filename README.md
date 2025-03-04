@@ -73,7 +73,7 @@ I am passionate about **network security, IT infrastructure, and system optimiza
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/VMware_logo.svg" alt="VMware" width="120" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Microsoft_logo.svg" alt="Windows" width="120" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" alt="Windows" width="120" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/MacOS_logo.svg" alt="macOS" width="100" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_Office_Logo_%282013-2019%29.svg" alt="Office 365" width="100" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Active_Directory_Logo.png" alt="Active Directory" width="100" height="40"/>
