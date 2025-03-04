@@ -61,16 +61,28 @@ I am passionate about **network security, IT infrastructure, and system optimiza
 [![Credly](https://img.shields.io/badge/Credly-Certifications-orange)](https://www.credly.com/users/salman-ahmed827)
 
 ---
+
 ## 🏷️ Tech & Platforms
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Fortinet_logo.svg" alt="Fortinet" width="120" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Fortinet_logo.svg" alt="FortiGate" width="120" height="40"/>
   <img src="https://www.svgrepo.com/show/303399/sophos-logo.svg" alt="Sophos" width="120" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Dell_Logo.svg" alt="Dell" width="120" height="40"/>
   <img src="https://www.pfsense.org/themes/pfsense/assets/img/pfsense-logo.png" alt="pfSense" width="120" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Fiverr_Logo.svg" alt="Fiverr" width="120" height="40"/>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/VMware_logo.svg" alt="VMware" width="120" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Microsoft_logo.svg" alt="Windows" width="120" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/MacOS_logo.svg" alt="macOS" width="100" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_Office_Logo_%282013-2019%29.svg" alt="Office 365" width="100" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Active_Directory_Logo.png" alt="Active Directory" width="100" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Veeam_logo.svg" alt="Veeam B&R" width="120" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Microsoft_Hyper-V_Logo.svg" alt="Hyper-V" width="120" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/LibreNMS_Logo.svg" alt="LibreNMS" width="120" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Zabbix_logo.svg" alt="Zabbix" width="120" height="40"/>
+  <img src="https://www.eve-ng.net/images/logo.png" alt="EVE-NG" width="120" height="40"/>
 </p>
+
 ---
 ⭐ **Feel free to connect with me or check out my projects!** 🚀
