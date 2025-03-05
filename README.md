@@ -67,9 +67,10 @@ I am passionate about **network security, IT infrastructure, and system optimiza
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Fortinet_logo.svg" alt="FortiGate" width="120" height="40"/>
   <img src="https://www.svgrepo.com/show/303399/sophos-logo.svg" alt="Sophos" width="120" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS" width="120" height="40"/>
   <img src="https://www.pfsense.org/themes/pfsense/assets/img/pfsense-logo.png" alt="pfSense" width="120" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS" width="120" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Fiverr_Logo.svg" alt="Fiverr" width="120" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" alt="Notion" width="120" height="40"/>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="120" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/VMware_logo.svg" alt="VMware" width="120" height="40"/>
@@ -84,6 +85,5 @@ I am passionate about **network security, IT infrastructure, and system optimiza
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Zabbix_logo.svg" alt="Zabbix" width="120" height="40"/>
   <img src="https://www.eve-ng.net/images/logo.png" alt="EVE-NG" width="120" height="40"/>
 </p>
-https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg
 ---
 ⭐ **Feel free to connect with me or check out my projects!** 🚀
