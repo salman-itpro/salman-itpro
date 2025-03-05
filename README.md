@@ -67,7 +67,7 @@ I am passionate about **network security, IT infrastructure, and system optimiza
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Fortinet_logo.svg" alt="FortiGate" width="120" height="40"/>
   <img src="https://www.svgrepo.com/show/303399/sophos-logo.svg" alt="Sophos" width="120" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Dell_Logo.svg" alt="Dell" width="120" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS" width="120" height="40"/>
   <img src="https://www.pfsense.org/themes/pfsense/assets/img/pfsense-logo.png" alt="pfSense" width="120" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Fiverr_Logo.svg" alt="Fiverr" width="120" height="40"/>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
