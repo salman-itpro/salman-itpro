@@ -1,20 +1,35 @@
 <div align="center">
 
-# 👋 Hi there, I'm Salman Ahmed!
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=IT+Support+Specialist;Network+Security+Expert;Virtualization+Pro;Tech+Enthusiast" alt="Typing SVG" />
+
+# 👋 Hi there, I'm **Salman Ahmed**!
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Salman%20Ahmed&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" />
+</div>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salman-itspecialist)
 [![Credly](https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/salman-ahmed827)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salman-itpro)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salman@example.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salman-itpro&style=for-the-badge&color=blueviolet)
 
 </div>
 
+</div>
+
 ---
 
-## 🎯 About Me
+<div align="center">
+
+# 🎯 About Me
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Passionate+IT+Professional;Network+Security+Expert;Virtualization+Specialist;Tech+Innovator" alt="About Me" />
+
+</div>
 
 <div align="center">
 
@@ -22,7 +37,17 @@
 
 </div>
 
-### 🔥 Core Expertise
+<div align="center">
+
+### 🔥 **Core Expertise**
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
 
 **🛡️ Network Security**
 - FortiGate & Sophos Firewalls
@@ -30,30 +55,68 @@
 - LACP & Network Optimization
 - Active Directory Management
 
+</td>
+<td width="50%" align="center">
+
 **💻 Virtualization & Systems**
 - VMware ESXi & Hyper-V
 - Veeam Backup & Recovery
 - Windows/Linux Server Admin
 - IT Asset Management
 
-### 🌟 What I Excel At
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+### 🌟 **What I Excel At**
+
+</div>
+
+<div align="center">
+
 - 🔧 **Troubleshooting** complex hardware & software issues
 - 🏗️ **Building** secure network infrastructures
 - 🚀 **Optimizing** system performance and reliability
 - 📚 **Learning** cutting-edge technologies continuously
 
----
+</div>
 
 ---
 
-## 🏆 Featured Project
+---
 
-### 🔥 Sophos & pfSense Firewall Lab Environment
+<div align="center">
+
+# 🏆 Featured Project
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Firewall+Lab+Environment;Network+Security+Project;Virtual+Infrastructure;Advanced+Networking" alt="Project" />
+
+</div>
+
+<div align="center">
+
+### 🔥 **Sophos & pfSense Firewall Lab Environment**
 
 [![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&logo=check-circle)](https://github.com/salman-itpro)
 [![Tech Stack](https://img.shields.io/badge/Tech-EVE--NG%20%7C%20Cisco%20%7C%20Sophos%20%7C%20pfSense-blue?style=for-the-badge)](https://github.com/salman-itpro)
 
+</div>
+
+<div align="center">
+
 > 🎯 **A comprehensive virtual lab environment showcasing advanced network security and firewall management capabilities.**
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
 
 **🛠️ What I Built:**
 - 🏗️ **Virtual EVE-NG Lab** - Complete network simulation environment
@@ -62,19 +125,41 @@
 - 🔗 **Cisco Integration** - 3725 Router for inter-firewall communication
 - 📊 **Monitoring & Analytics** - Network performance optimization
 
+</td>
+<td width="50%" align="center">
+
 **🚀 Key Achievements:**
 - ✅ **Zero-downtime** network configuration
 - ✅ **Enhanced security** through proper firewall rules
 - ✅ **Optimized traffic flow** with LACP and VLANs
 - ✅ **Real-world troubleshooting** experience
 
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
 [![View Project](https://img.shields.io/badge/View%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salman-itspecialist)
+
+</div>
 
 ---
 
-## 🛠️ Technical Expertise
+<div align="center">
 
-### 🔥 Networking & Security
+# 🛠️ Technical Expertise
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Networking+%26+Security;Systems+%26+Virtualization;IT+Management+%26+Support;Cloud+Technologies" alt="Tech Stack" />
+
+</div>
+
+<div align="center">
+
+### 🔥 **Networking & Security**
+
 ![FortiGate](https://img.shields.io/badge/FortiGate-FF6B35?style=for-the-badge&logo=fortinet&logoColor=white)
 ![Sophos](https://img.shields.io/badge/Sophos-FF6B35?style=for-the-badge&logo=sophos&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
@@ -83,7 +168,12 @@
 - **Monitoring:** LibreNMS, Zabbix
 - **Security:** Firewall Management, Network Security
 
-### 💻 Systems & Virtualization
+</div>
+
+<div align="center">
+
+### 💻 **Systems & Virtualization**
+
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Veeam](https://img.shields.io/badge/Veeam-00B4D8?style=for-the-badge&logo=veeam&logoColor=white)
@@ -92,7 +182,12 @@
 - **Virtualization:** VMware ESXi, Hyper-V
 - **Backup:** Veeam Backup & Recovery
 
-### 🔧 IT Management & Support
+</div>
+
+<div align="center">
+
+### 🔧 **IT Management & Support**
+
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Office 365](https://img.shields.io/badge/Office%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -101,15 +196,28 @@
 - **Support:** Hardware/Software Diagnostics
 - **Cloud:** AWS, Office 365
 
-### 📊 Skill Level Overview
+</div>
+
+<div align="center">
+
+### 📊 **Skill Level Overview**
+
 ![Network Security](https://img.shields.io/badge/Network%20Security-Expert-red?style=for-the-badge&logo=shield&logoColor=white)
 ![Virtualization](https://img.shields.io/badge/Virtualization-Advanced-orange?style=for-the-badge&logo=server&logoColor=white)
 ![IT Support](https://img.shields.io/badge/IT%20Support-Expert-green?style=for-the-badge&logo=tools&logoColor=white)
 ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-Expert-blue?style=for-the-badge&logo=bug&logoColor=white)
 
+</div>
+
 ---
 
-## 🤝 Let's Connect!
+<div align="center">
+
+# 🤝 Let's Connect!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Let's+Connect;Get+in+Touch;Collaborate;Build+Together" alt="Connect" />
+
+</div>
 
 <div align="center">
 
@@ -119,7 +227,12 @@
 [![Credly](https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/salman-ahmed827)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salman-itpro)
 
+</div>
+
+<div align="center">
+
 ### 🎯 **What I'm Looking For**
+
 - 💼 **Job Opportunities** in IT Support & Network Security
 - 🤝 **Collaboration** on open-source projects
 - 📚 **Knowledge Sharing** and tech discussions
@@ -129,7 +242,13 @@
 
 ---
 
-## 🏷️ Technology Partners
+<div align="center">
+
+# 🏷️ Technology Partners
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Technologies+%26+Platforms;Firewall+Solutions;Virtualization+Tools;Cloud+Services" alt="Tech Partners" />
+
+</div>
 
 <div align="center">
 
@@ -152,7 +271,13 @@
 
 ---
 
-## 📈 GitHub Analytics
+<div align="center">
+
+# 📈 GitHub Analytics
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=My+GitHub+Journey;Coding+Activity;Contribution+Stats;Top+Languages" alt="GitHub Analytics" />
+
+</div>
 
 <div align="center">
 
@@ -172,9 +297,11 @@
 
 <div align="center">
 
-## ⭐ **Thanks for visiting my profile!** 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thanks+for+Visiting!&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Footer" />
 
-### 🚀 **Ready to collaborate and build amazing things together!**
+# ⭐ **Thanks for visiting my profile!** 
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Ready+to+Collaborate;Build+Amazing+Things;Create+the+Future;Let's+Connect!" alt="Footer Message" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salman-itpro&style=for-the-badge&color=blueviolet)
 
