@@ -177,18 +177,7 @@
 
 ### 🔥 Technologies & Platforms I Work With
 
-<img src="https://img.shields.io/badge/FortiGate-FF6B35?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiGate"/>
-<img src="https://img.shields.io/badge/Sophos-FF6B35?style=for-the-badge&logo=sophos&logoColor=white" alt="Sophos"/>
-<img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense"/>
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/>
-<img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Hyper-V"/>
-<img src="https://img.shields.io/badge/Veeam-00B4D8?style=for-the-badge&logo=veeam&logoColor=white" alt="Veeam"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
-<img src="https://img.shields.io/badge/Office%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" alt="Office 365"/>
+<img src="https://img.shields.io/badge/FortiGate-FF6B35?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiGate"/> <img src="https://img.shields.io/badge/Sophos-FF6B35?style=for-the-badge&logo=sophos&logoColor=white" alt="Sophos"/> <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense"/> <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/> <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Hyper-V"/> <img src="https://img.shields.io/badge/Veeam-00B4D8?style=for-the-badge&logo=veeam&logoColor=white" alt="Veeam"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/> <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/> <img src="https://img.shields.io/badge/Office%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" alt="Office 365"/>
 
 ---
 
