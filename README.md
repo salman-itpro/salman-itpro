@@ -12,9 +12,19 @@
 
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=twinkling" alt="Header Wave" />
+</div>
+
 ---
 
+<div align="center">
+
 ## 🎯 About Me
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Passionate+IT+Professional;Network+Security+Expert;Virtualization+Specialist;Tech+Innovator" alt="About Me" />
+
+</div>
 
 > 💡 **Passionate IT Professional** with **2+ years** of hands-on experience in enterprise IT infrastructure and network security solutions.
 
@@ -51,7 +61,13 @@
 
 ---
 
+<div align="center">
+
 ## 🏆 Featured Project
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Firewall+Lab+Environment;Network+Security+Project;Virtual+Infrastructure;Advanced+Networking" alt="Project" />
+
+</div>
 
 ### 🔥 Sophos & pfSense Firewall Lab Environment
 
@@ -88,7 +104,13 @@
 
 ---
 
+<div align="center">
+
 ## 🛠️ Technical Expertise
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Networking+%26+Security;Systems+%26+Virtualization;IT+Management+%26+Support;Cloud+Technologies" alt="Tech Stack" />
+
+</div>
 
 ### 🔥 Networking & Security
 ![FortiGate](https://img.shields.io/badge/FortiGate-FF6B35?style=for-the-badge&logo=fortinet&logoColor=white)
@@ -125,7 +147,13 @@
 
 ---
 
+<div align="center">
+
 ## 🤝 Let's Connect!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Let's+Connect;Get+in+Touch;Collaborate;Build+Together" alt="Connect" />
+
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salman-itspecialist)
 [![Credly](https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/salman-ahmed827)
@@ -139,7 +167,13 @@
 
 ---
 
+<div align="center">
+
 ## 🏷️ Technology Partners
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Technologies+%26+Platforms;Firewall+Solutions;Virtualization+Tools;Cloud+Services" alt="Tech Partners" />
+
+</div>
 
 ### 🔥 Technologies & Platforms I Work With
 
@@ -158,7 +192,13 @@
 
 ---
 
+<div align="center">
+
 ## 📈 GitHub Analytics
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=My+GitHub+Journey;Coding+Activity;Contribution+Stats;Top+Languages" alt="GitHub Analytics" />
+
+</div>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=salman-itpro&show_icons=true&theme=tokyonight" />
@@ -168,6 +208,8 @@
 ---
 
 <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Thanks+for+Visiting;Ready+to+Collaborate;Build+Amazing+Things;Let's+Connect!" alt="Footer Message" />
 
 ## ⭐ **Thanks for visiting my profile!** 
 
@@ -179,4 +221,8 @@
 
 *"The best way to predict the future is to create it."* - Peter Drucker
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" alt="Footer Wave" />
 </div>
