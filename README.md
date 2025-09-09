@@ -8,7 +8,7 @@
 [![Credly](https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/salman-ahmed827)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salman-itpro)
 
-![Profile Views](https://komarev.com/ghpvc/?username=salman-ahmed&style=for-the-badge&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=salman-itpro&style=for-the-badge&color=blueviolet)
 
 </div>
 
@@ -158,13 +158,13 @@
 
 ### 🚀 **My GitHub Journey**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salman-ahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/salman-ahmed)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salman-itpro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/salman-itpro)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salman-ahmed&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC)](https://github.com/salman-ahmed)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salman-itpro&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC)](https://github.com/salman-itpro)
 
 ### 🏆 **Top Languages**
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salman-ahmed&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)](https://github.com/salman-ahmed)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salman-itpro&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)](https://github.com/salman-itpro)
 
 </div>
 
@@ -176,7 +176,7 @@
 
 ### 🚀 **Ready to collaborate and build amazing things together!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=salman-ahmed&style=for-the-badge&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=salman-itpro&style=for-the-badge&color=blueviolet)
 
 ---
 
